@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/EasyEventEditor"]
+	path = Assets/Plugins/EasyEventEditor
+	url = https://github.com/JGroxz/EasyEventEditor
