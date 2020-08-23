@@ -9,6 +9,7 @@
     }
   ],
   "dependencies": {
+    "io.extendreality.malimbe": "9.6.5",
     "com.darrentsung.dtcompiletimetracker": "https://github.com/DarrenTsung/DTCompileTimeTracker.git",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
